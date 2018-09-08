@@ -5,5 +5,4 @@ Dalam teknik pengkodingan mungkin aplikasi ini masih terlihat agak kurang tepat,
 Berhubung saya menggunakan JPA, saat itu saya belum menemukan cara yang tepat dan simple untuk memanipulasi database. 
 Jadi Semoga terhibur :D 
 
-Please Follow Instagram @mahendraCandi
 Jakarta, Indonesia.
